@@ -1,0 +1,22 @@
+{
+  "key": 4,
+  "updateAuthority": "SLTE1QbPYJqRP21RxFnVAhrGpRw9kTTTLEVLeCDfmat",
+  "mint": "E3kiaNoe4G2Pc2uVnYYsYT4Z4v865vt1no2HfChb25jm",
+  "data": {
+    "name": "DEPRECATED",
+    "symbol": "DEL",
+    "uri": "https://solrnetwork.infura-ipfs.io/ipfs/QmRruTkW1riiScwkiRtKDWySDajpxLPr8otQYJZYrkfjTG",
+    "sellerFeeBasisPoints": 0,
+    "creators": [
+      {
+        "address": "SLTE1QbPYJqRP21RxFnVAhrGpRw9kTTTLEVLeCDfmat",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1,
+  "editionNonce": 255,
+  "tokenStandard": 2
+}
